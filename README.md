@@ -1,3 +1,4 @@
+![logo](https://github.com/Amolmahale01/Amolmahale01/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Amol Mahale</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
