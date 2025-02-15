@@ -3,7 +3,6 @@
  <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" />, My name is Amol Mahale👨‍💻</h1>
 <div style="display: flex; flex-direction: row;">
   <div style="flex: 1;">
-    <h3 align="center">Visit My Personal Portfolio site</h3>
     <p align="center"> 
       <a href="https://github.com/Amolmahale01">https://github.com/Amolmahale01/</a>
     </p>
