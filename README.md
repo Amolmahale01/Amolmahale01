@@ -48,8 +48,7 @@
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in/api?id=aravindapg&icon=0&color=0">
-    <img src="https://visitcount.itsvg.in/api?id=Amolmahale01pg&icon=0&color=0" alt="Visitor Count" />
+    <img src="https://visitcount.itsvg.in/api?id=Amolmahale01pg&icon=0&color=0" />
   </a>
 </p>
 
